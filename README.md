@@ -41,6 +41,7 @@ This is a complete guide to implement touch on a convex shape. The guide utilise
 7. Note that if you want to use joystick, simple connect the Xbox controller using bluetooth in Windows. When you have a connection, unity will write in the button that it is connected and ready to use. Just make sure to select it as described in step 5
 8. Print the provided 3d model that supports touch on a convex shape.
 9. Using conductive paint, which acts as glue, place it on the 3d printet model and place on the QT8 Xplained Pro touch surface. Make sure to fit it precicely and with enough conductive paint to insure a good connection
-10. 
+10. Ready to use both convex shape and joystick in the car simulation 
+
 
 
