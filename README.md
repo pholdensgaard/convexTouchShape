@@ -30,6 +30,8 @@ This is a complete guide to implement touch on a convex shape. The guide utilise
 
 1. Download Microchip Studio and Connect AVR128DA48 using a data USB-A to USB-Micro-b
 2. Once conneted, build the provided Microchip Studio project onto the AVR128DA48
-3. (Debugging) - Using PuTTy or Digi XCTU, open a serial console using baudrate=38400, data bits=8, Parity=None, Stop Bits=1 and Flow Control = None and confirm the setup coordinates
-4. 
+3. (Debugging) - Using PuTTY or Digi XCTU, open a serial console using our COM port (COM3 in our case), baudrate=38400, data bits=8, Parity=None, Stop Bits=1 and Flow Control = None and confirm the setup coordinates
+4. Open the provided Unity project and open the SerialComm script
+5. The default COM port is COM3, edit to fit your specific COM port (can be found in PuTTY or Digi XCTU)
+6. 
 
