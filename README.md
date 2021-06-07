@@ -13,6 +13,7 @@ This is a complete guide to implement touch on a convex shape. The guide utilise
 - Dual extrude 3D printer (Ultimaker S5 in our case)
 - Conductive filament (Proto pasta, but other conductive filaments works as well)
 - PLA plastic
+- Conductive paint (https://www.bareconductive.com/blogs/blog/what-is-electric-paint-the-composition-and-application-of-conductive-paints)
 
 ### Required software (free)
 - Microchip Studio
@@ -26,6 +27,9 @@ This is a complete guide to implement touch on a convex shape. The guide utilise
 ### 3D models for printing
 - Convex shape in a SolidWorks Assembly
 
+## Credits and thanks to
+- Vehicle Phycis Pro (https://vehiclephysics.com/)
+
 ## Get started
 
 1. Download Microchip Studio and Connect AVR128DA48 using a data USB-A to USB-Micro-b
@@ -33,5 +37,8 @@ This is a complete guide to implement touch on a convex shape. The guide utilise
 3. (Debugging) - Using PuTTY or Digi XCTU, open a serial console using our COM port (COM3 in our case), baudrate=38400, data bits=8, Parity=None, Stop Bits=1 and Flow Control = None and confirm the setup coordinates
 4. Open the provided Unity project and open the SerialComm script
 5. The default COM port is COM3, edit to fit your specific COM port (can be found in PuTTY or Digi XCTU)
-6. 
+6. The unity project has 4 scenes, which can be found in Assets/Vehicle Phycis Pro/Scenes. A scene test, Scene 1, Scene 2 and Scene 4.
+7. Make sure when you load each scene, that you have chosen your desired input controller, either joystick or touch input. Navigate in the Hierarchy in the left and choose "VPP Sport Coupe" and select COM. You should now see two scripts, enable the one you want to use and try it out.
+8. Print the provided 3d model that supports touch on a convex shape.
+
 
