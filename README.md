@@ -21,8 +21,8 @@ This is a complete guide to implement touch on a convex shape. The guide utilise
 - Microsoft Visual Studio (https://visualstudio.microsoft.com/vs/)
 
 ### Provided code in this project
-- Microchip Studio project for retriving touch input from the AVR128DA48 
-- Complete unity project to run simulation including scrip to retrieve touch input from the touch surface
+- Microchip Studio project for retriving touch input from the AVR128DA48 (can be found here: https://drive.google.com/drive/folders/1C58eHFaWfg5DDBVdRvJmySgB696HPGgb?usp=sharing)
+- Complete unity project to run simulation including scrip to retrieve touch input from the touch surface (can be found here: https://drive.google.com/drive/folders/1WipsEkQ0Yfhp3_48dP_lTpbd8AY_Ymgy?usp=sharing)
 
 ### 3D models for printing
 - Convex shape in a SolidWorks Assembly
