@@ -25,7 +25,7 @@ This is a complete guide to implement touch on a convex shape. The guide utilise
 - Complete unity project to run simulation including scrip to retrieve touch input from the touch surface (can be found here: https://drive.google.com/drive/folders/1WipsEkQ0Yfhp3_48dP_lTpbd8AY_Ymgy?usp=sharing)
 
 ### 3D models for printing
-- Convex shape in a SolidWorks Assembly
+- Convex shape in a SolidWorks Assembly (can be found here: https://drive.google.com/drive/folders/19UN90LKUtejuOdBjKoOH8u0DK31ySCI0?usp=sharing)
 
 ## Credits and thanks to
 - Vehicle Phycis Pro (https://vehiclephysics.com/)
